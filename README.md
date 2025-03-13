@@ -10,3 +10,4 @@ Projects for Virtual Environments class 2025 at NABA Milan
 - Elisabetta Vitale
 - Wang Zhixi
 - Zhu Qizhang
+- Duan qiyu
